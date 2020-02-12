@@ -1,0 +1,2 @@
+Creando archivos con la terminal Cmander 
+Para crear programas con python 
