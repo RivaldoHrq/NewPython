@@ -6,3 +6,4 @@ for r in range (10):
 
 for elementos in milista:
     print(elementos)
+print("R")
